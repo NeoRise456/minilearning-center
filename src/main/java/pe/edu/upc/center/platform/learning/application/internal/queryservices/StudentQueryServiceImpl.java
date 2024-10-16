@@ -6,7 +6,7 @@ import pe.edu.upc.center.platform.learning.domain.model.queries.GetAllStudentsQu
 import pe.edu.upc.center.platform.learning.domain.model.queries.GetStudentByIdQuery;
 import pe.edu.upc.center.platform.learning.domain.model.queries.GetStudentByProfileIdQuery;
 import pe.edu.upc.center.platform.learning.domain.model.queries.GetStudentByStudentCodeQuery;
-import pe.edu.upc.center.platform.learning.domain.model.services.StudentQueryService;
+import pe.edu.upc.center.platform.learning.domain.services.StudentQueryService;
 import pe.edu.upc.center.platform.learning.infrastructure.persistence.jpa.repositories.StudentRepository;
 
 import java.util.List;

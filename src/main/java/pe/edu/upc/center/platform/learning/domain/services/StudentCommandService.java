@@ -1,4 +1,4 @@
-package pe.edu.upc.center.platform.learning.domain.model.services;
+package pe.edu.upc.center.platform.learning.domain.services;
 
 import pe.edu.upc.center.platform.learning.domain.model.aggregates.Student;
 import pe.edu.upc.center.platform.learning.domain.model.commands.CreateStudentCommand;

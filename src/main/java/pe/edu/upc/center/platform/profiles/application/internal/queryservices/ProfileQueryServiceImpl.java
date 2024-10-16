@@ -5,7 +5,7 @@ import pe.edu.upc.center.platform.profiles.domain.model.aggregates.Profile;
 import pe.edu.upc.center.platform.profiles.domain.model.queries.GetAllProfilesQuery;
 import pe.edu.upc.center.platform.profiles.domain.model.queries.GetProfileByFullNameQuery;
 import pe.edu.upc.center.platform.profiles.domain.model.queries.GetProfileByIdQuery;
-import pe.edu.upc.center.platform.profiles.domain.model.services.ProfileQueryService;
+import pe.edu.upc.center.platform.profiles.domain.services.ProfileQueryService;
 import pe.edu.upc.center.platform.profiles.infrastructure.persistence.jpa.repositories.ProfileRepository;
 
 import java.util.List;

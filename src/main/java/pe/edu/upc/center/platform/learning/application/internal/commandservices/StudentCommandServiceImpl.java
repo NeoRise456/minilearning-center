@@ -6,7 +6,7 @@ import pe.edu.upc.center.platform.learning.domain.model.aggregates.Student;
 import pe.edu.upc.center.platform.learning.domain.model.commands.CreateStudentCommand;
 import pe.edu.upc.center.platform.learning.domain.model.commands.DeleteStudentCommand;
 import pe.edu.upc.center.platform.learning.domain.model.commands.UpdateStudentCommand;
-import pe.edu.upc.center.platform.learning.domain.model.services.StudentCommandService;
+import pe.edu.upc.center.platform.learning.domain.services.StudentCommandService;
 import pe.edu.upc.center.platform.learning.domain.model.valueobjects.StudentCode;
 import pe.edu.upc.center.platform.learning.infrastructure.persistence.jpa.repositories.StudentRepository;
 

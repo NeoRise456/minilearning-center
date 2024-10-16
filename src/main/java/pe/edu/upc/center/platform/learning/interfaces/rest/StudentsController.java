@@ -9,8 +9,8 @@ import pe.edu.upc.center.platform.learning.application.internal.outboundservices
 import pe.edu.upc.center.platform.learning.domain.model.commands.DeleteStudentCommand;
 import pe.edu.upc.center.platform.learning.domain.model.queries.GetAllStudentsQuery;
 import pe.edu.upc.center.platform.learning.domain.model.queries.GetStudentByStudentCodeQuery;
-import pe.edu.upc.center.platform.learning.domain.model.services.StudentCommandService;
-import pe.edu.upc.center.platform.learning.domain.model.services.StudentQueryService;
+import pe.edu.upc.center.platform.learning.domain.services.StudentCommandService;
+import pe.edu.upc.center.platform.learning.domain.services.StudentQueryService;
 import pe.edu.upc.center.platform.learning.domain.model.valueobjects.StudentCode;
 import pe.edu.upc.center.platform.learning.interfaces.rest.resources.CreateStudentResource;
 import pe.edu.upc.center.platform.learning.interfaces.rest.resources.StudentResource;

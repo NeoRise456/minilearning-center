@@ -5,7 +5,7 @@ import pe.edu.upc.center.platform.profiles.domain.model.aggregates.Profile;
 import pe.edu.upc.center.platform.profiles.domain.model.commands.CreateProfileCommand;
 import pe.edu.upc.center.platform.profiles.domain.model.commands.DeleteProfileCommand;
 import pe.edu.upc.center.platform.profiles.domain.model.commands.UpdateProfileCommand;
-import pe.edu.upc.center.platform.profiles.domain.model.services.ProfileCommandService;
+import pe.edu.upc.center.platform.profiles.domain.services.ProfileCommandService;
 import pe.edu.upc.center.platform.profiles.infrastructure.persistence.jpa.repositories.ProfileRepository;
 
 import java.util.Optional;

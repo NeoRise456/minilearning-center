@@ -6,8 +6,8 @@ import pe.edu.upc.center.platform.profiles.domain.model.commands.DeleteProfileCo
 import pe.edu.upc.center.platform.profiles.domain.model.commands.UpdateProfileCommand;
 import pe.edu.upc.center.platform.profiles.domain.model.queries.GetProfileByFullNameQuery;
 import pe.edu.upc.center.platform.profiles.domain.model.queries.GetProfileByIdQuery;
-import pe.edu.upc.center.platform.profiles.domain.model.services.ProfileCommandService;
-import pe.edu.upc.center.platform.profiles.domain.model.services.ProfileQueryService;
+import pe.edu.upc.center.platform.profiles.domain.services.ProfileCommandService;
+import pe.edu.upc.center.platform.profiles.domain.services.ProfileQueryService;
 import pe.edu.upc.center.platform.profiles.interfaces.rest.resources.ProfileResource;
 import pe.edu.upc.center.platform.profiles.interfaces.rest.transform.ProfileResourceFromEntityAssembler;
 
