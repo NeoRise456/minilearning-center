@@ -1,1 +1,1 @@
-"# learning-center-platform-mini-v2402" 
+# learning-center-platform-mini-v2402
